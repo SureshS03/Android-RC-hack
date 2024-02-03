@@ -3,4 +3,4 @@
 
 # Required files
 get gitup clone on this repository "ttps://github.com/karma9874/AndroRat" Thanks for him/her
-download all required py package from Requirement.txt
+Follow the steps
